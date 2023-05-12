@@ -20,15 +20,26 @@ Front-End 개발자
 <h3>🛠사용기술</h3>
 <div>
   <!--JavaScript-->
-  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=#F7DF1E">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <!--React-->
-  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=#61DAFB">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <!--HTML-->
-  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=#E34F26">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <!--CSS-->
-  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=#1572B6">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <!--Java-->
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=black">
+  <!--github-->
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <!--bootstrap-->
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black">
+
+
 </div>
 
+<br>
+
+![HyunCheolLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunCheol-Lee&show_icons=true&theme=transparent)
 
 
 
