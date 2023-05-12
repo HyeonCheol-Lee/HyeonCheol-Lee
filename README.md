@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=LHC&fontColor=ffffff&fontAlign=30&fontSize=30&textBg=true&desc=LHC's%20%27Github&descAlign=60&descAlignY=50&descSize=60)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=HyunCheolLee&fontColor=ffffff&fontAlign=30&fontSize=30&textBg=true&desc=LHC's%20%27Github&descAlign=60&descAlignY=50&descSize=35)
+####  :wave: Welcome my github profile !
